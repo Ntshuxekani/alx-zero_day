@@ -1,0 +1,20 @@
+#!/bin/bash
+echo "ALX"
+^C
+
+root@18824b1c772e:/alx-zero_day/0x03-git/bash# clear
+pwd
+root@18824b1c772e:/alx-zero_day/0x03-git/bash# clearbash
+bash
+root@18824b1c772e:/alx-zero_day/0x03-git/bash# clear bash
+root@18824b1c772e:/alx-zero_day/0x03-git/bash# cat > school
+#!/bin/bash
+echo "School"
+^C
+root@18824b1c772e:/alx-zero_day/0x03-git/bash# git add .
+root@18824b1c772e:/alx-zero_day/0x03-git/bash# git commit -m 'Starting to code today, so cool'
+/
+root@18824b1c772e:/#
+root@18824b1c772e:/# pwd
+root@18824b1c772e:/alx-zero_day/0x03-git/bash# git commit -m “Starting to code today, so cool”
+% sudo su –
